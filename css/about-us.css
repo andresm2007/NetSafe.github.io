@@ -1,0 +1,48 @@
+.caja {
+    /* color de la caja */
+    background-color: #1C8304;
+
+    /* separacion de las cajas */
+
+}
+
+.cajas{
+    /* texto bien acomodado */
+    text-align: center;
+    /* separacion de las cajas */
+    margin: auto auto;
+    /* centrado del texto */
+    padding: 2em 1em;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 30px;
+}
+
+.au {
+    /* que se ponga en un lugar bonito */
+    position: relative;
+   
+    /* tama;o */
+    size: 10px;
+}
+
+.wave p {
+    position: absolute;
+    z-index: 1;
+    padding: 0;
+}
+
+.titulitos {
+    font-size: 45px;
+    margin: 20px;
+    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
+    color: #135b03;
+}
+.titulitos1{
+    text-align: center;
+    font-size: 45px;
+    margin: 20px;
+    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
+    color: #000000;
+}
