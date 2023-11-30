@@ -34,7 +34,7 @@ main{
     justify-content: center;
     -webkit-backdrop-filter: blur(10px);
     backdrop-filter: blur(10px);
-    background: linear-gradient(to right,rgb(17, 82, 20), #013560);
+    background: linear-gradient(to right, #4ea93b, #58bae7);
 
 
 }
